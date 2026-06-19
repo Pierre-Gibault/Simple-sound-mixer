@@ -8,6 +8,8 @@
 
 - 3 potentiometer
 
+- 2 10k resistor
+
 - some cable (ofc)
 
 ## Wireing schema
