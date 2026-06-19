@@ -1,0 +1,37 @@
+#Simple audio mixer
+
+## material requirements
+
+- Arduino (nano or other)
+
+- 2 button
+
+- 3 potentiometer
+
+- some cable (ofc)
+
+## Wireing schema
+
+![schema](images/schema.svg)
+
+## Wirering result
+
+![result](images/result.jpg)
+
+## Install the arduino script
+
+Upload the stream_deck_nano.ino script using any arduino IDE (normal style)
+
+## Install the pyhton librairy
+
+pip install -r requirements.txt
+
+## Run the project
+
+After uploading the arduino script run the python script and that's it.
+
+You can use the python script as a systemctl service on linux to get it at any time.
+
+## Licence
+
+A licence for this ?? Hell naaaaah.

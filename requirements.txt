@@ -1,0 +1,4 @@
+pyserial
+pycaw
+psutil
+pywin32
