@@ -26,11 +26,11 @@ Upload the stream_deck_nano.ino script using any arduino IDE (normal style)
 
 ## Install the pyhton librairy
 
-pip install -r requirements.txt
+pip install -r requirements\_<your-os>.txt
 
 ## Run the project
 
-After uploading the arduino script run the python script and that's it.
+After uploading the arduino script run the python script for your os and that's it.
 
 You can use the python script as a systemctl service on linux to get it at any time.
 
